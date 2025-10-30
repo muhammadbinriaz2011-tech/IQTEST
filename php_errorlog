@@ -1,0 +1,12 @@
+[13-Oct-2025 05:15:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'' at line 1 in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php:44
+Stack trace:
+#0 /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php on line 44
+[13-Oct-2025 05:16:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'' at line 1 in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php:44
+Stack trace:
+#0 /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php on line 44
+[13-Oct-2025 05:45:43 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting "]" in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php on line 158
+[13-Oct-2025 05:45:48 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting "]" in /home/customer/www/rsoa142.rehancenter.com/public_html/IQ TEST/index.php on line 158
